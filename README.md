@@ -115,10 +115,13 @@ EDA was performed to understand the dataset, identify data quality issues, and e
 
 <img width="1363" height="757" alt="Screenshot 2026-10-20 120045" src="https://github.com/user-attachments/assets/1dcebe70-4aa0-4b5b-a83f-47b38679393a" />
 
+
 <img width="1268" height="732" alt="Screenshot 2026-10-20 120100" src="https://github.com/user-attachments/assets/84c95b04-8cba-446f-ba3d-443213e5afc5" />
 
 
+
 4. Sentiment Distribution
+
 
 <img width="1530" height="792" alt="Screenshot 2026-10-20 120125" src="https://github.com/user-attachments/assets/82328831-4ba0-4968-a2c5-fceb0074fb7d" />
     
@@ -127,9 +130,13 @@ EDA was performed to understand the dataset, identify data quality issues, and e
     
 Social-Media-Sentiment-Analysis/
 ├── README.md
+
 ├── Sentiment_Analysis.ipynb
+
 ├── social_media_sentiment_1003_rows.csv
+
 ├── Sentiment_Analysis_Dashboard.pbix
+
 ├── dashboard.png
 
 # 12. Future Enhancements
@@ -142,7 +149,7 @@ Social-Media-Sentiment-Analysis/
 
 # Author
 
-Vedika Ghadge
+# Vedika Ghadge
  
 email 📧 - [vedikaghadge613@gmail.com]
 
